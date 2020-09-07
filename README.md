@@ -1,0 +1,1 @@
+# My cert-manager template
